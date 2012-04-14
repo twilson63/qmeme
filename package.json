@@ -1,0 +1,17 @@
+{
+  "author": "Tom Wilson <tom@jackhq.com> (http://twitter.com/twilson63)",
+  "name": "qmeme",
+  "description": "A module that provides a wrapper around quick meme api and certain phrases",
+  "version": "0.1.0",
+  "dependencies": {
+    "request": "~2.9.202"
+  },
+  "devDependencies": {
+    "mocha": "1.0.0",
+    "should": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
