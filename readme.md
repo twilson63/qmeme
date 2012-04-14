@@ -1,6 +1,20 @@
 # QMEME
 
-A library that regexps meme phrases and turns them in to memes.
+[![build
+status](https://secure.travis-ci.org/twilson63/qmeme.png)](http://travis-ci.org/twilson63/qmeme)
+
+A library creates a quickmeme from one a few expressions:
+
+* Y U NO `text`
+* I don't always [something] but when i do `text`
+* `text` ORLY?
+* `text` (SUCCESS|NAILED IT)
+* `text` ALL the [things]
+* `text` TOO DAMN [high]
+* Good news everyone! [news]
+* Not sure if `text` or `text`
+* Generates Futurama Fry
+* Yo dawg `text` so `text`
 
 # Install
 
